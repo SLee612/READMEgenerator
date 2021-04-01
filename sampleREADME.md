@@ -6,15 +6,15 @@ This is a simple README generator.  Users are asked a series of questions that a
 ## Table of Contents
 I. [Installation](#Installation)
 
-II. ["Usage"](#Usage)
+II. [Usage](#Usage)
 
 III. [License](#License)
 
-IV. [Contributing]("#Contributing")
+IV. [Contributing](#Contributing)
 
 V. [Tests](#Tests)
 
-VI. [Questions](#Questions)
+VI. [Questions](https://github.com/SLee612/READMEgenerator/blob/main/sampleREADME.md#readme-generator#Questions)
 
 ***
 
