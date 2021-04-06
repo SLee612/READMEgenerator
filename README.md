@@ -13,4 +13,4 @@ projectREADME.md
 
  Below is a link to a video walkthrough of the application.
 
- https://drive.google.com/file/d/1Jzb0GRAy6-Na30E9OL4E2GKQnnCCHu7H/view
+[![](http://img.youtube.com/vi/GxLTFA5e2yM/0.jpg)](http://www.youtube.com/watch?v=GxLTFA5e2yM "")
